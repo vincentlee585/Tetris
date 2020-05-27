@@ -1,0 +1,8 @@
+C:\Users\dimas\source\repos\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\dimas\source\repos\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\dimas\source\repos\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\dimas\source\repos\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\dimas\source\repos\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\dimas\source\repos\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\dimas\source\repos\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\dimas\source\repos\Tetris\Tetris\obj\Debug\Tetris.pdb
